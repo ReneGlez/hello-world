@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-This is where the description goes
+Hi everyone,
+
+I am once again trying to learn something new. This looks pretty interesting.
